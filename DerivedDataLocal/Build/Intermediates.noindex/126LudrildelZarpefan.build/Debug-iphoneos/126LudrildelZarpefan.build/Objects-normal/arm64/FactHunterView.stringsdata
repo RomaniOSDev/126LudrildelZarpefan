@@ -1,0 +1,32 @@
+{
+  "source": "/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/126LudrildelZarpefan/Features/Activities/FactHunter/FactHunterView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Fact Hunter",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "Find hidden points and answer each question.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "Progress: %lld/%lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 56
+        }
+      }
+    ]
+  },
+  "version": 1
+}

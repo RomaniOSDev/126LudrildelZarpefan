@@ -2,14 +2,26 @@
 //  ContentView.swift
 //  126LudrildelZarpefan
 //
-//  Created by Роман Главацкий on 30.03.2026.
+//  Created by Jure on 30.03.2026.
 //
 
 import SwiftUI
 
 struct ContentView: View {
+    @StateObject private var store = AppProgressStore()
+
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        Group {
+            if store.hasSeenOnboarding {
+                MainTabView()
+                    .environmentObject(store)
+            } else {
+                OnboardingView {
+                    store.markOnboardingSeen()
+                }
+            }
+        }
+        .preferredColorScheme(.dark)
     }
 }
 

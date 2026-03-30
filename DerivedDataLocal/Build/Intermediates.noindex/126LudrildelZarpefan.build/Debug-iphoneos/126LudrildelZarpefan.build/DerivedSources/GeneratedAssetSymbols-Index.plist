@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/126LudrildelZarpefan/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameAppAccent</string>
+			<key>relativePath</key>
+			<string>./AppAccent.colorset</string>
+			<key>swiftSymbol</key>
+			<string>appAccent</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/126LudrildelZarpefan/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameAppBackground</string>
+			<key>relativePath</key>
+			<string>./AppBackground.colorset</string>
+			<key>swiftSymbol</key>
+			<string>appBackground</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/126LudrildelZarpefan/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameAppPrimary</string>
+			<key>relativePath</key>
+			<string>./AppPrimary.colorset</string>
+			<key>swiftSymbol</key>
+			<string>appPrimary</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/126LudrildelZarpefan/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameAppSurface</string>
+			<key>relativePath</key>
+			<string>./AppSurface.colorset</string>
+			<key>swiftSymbol</key>
+			<string>appSurface</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/126LudrildelZarpefan/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameAppTextPrimary</string>
+			<key>relativePath</key>
+			<string>./AppTextPrimary.colorset</string>
+			<key>swiftSymbol</key>
+			<string>appTextPrimary</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/126LudrildelZarpefan/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameAppTextSecondary</string>
+			<key>relativePath</key>
+			<string>./AppTextSecondary.colorset</string>
+			<key>swiftSymbol</key>
+			<string>appTextSecondary</string>
+		</dict>
+	</array>
+	<key>images</key>
+	<array/>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

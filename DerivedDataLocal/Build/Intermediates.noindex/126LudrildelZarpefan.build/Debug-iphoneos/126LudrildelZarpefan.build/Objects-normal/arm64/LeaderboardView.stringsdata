@@ -1,0 +1,56 @@
+{
+  "source": "/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/126LudrildelZarpefan/Features/Leaderboard/LeaderboardView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Leaderboard",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your Score",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 12
+        }
+      },
+      {
+        "comment": "",
+        "key": "Total stars: %lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 15
+        }
+      },
+      {
+        "comment": "",
+        "key": "Activities played: %lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "#%lld",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld ★",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 32
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,48 @@
+{
+  "source": "/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/126LudrildelZarpefan/Features/Activities/QuizTrails/QuizTrailsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Quiz Trails",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 70
+        }
+      },
+      {
+        "comment": "",
+        "key": "Time Left: %llds",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "Best Correct: %lld",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "Trail complete. Preparing results...",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "Answered",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 54
+        }
+      }
+    ]
+  },
+  "version": 1
+}

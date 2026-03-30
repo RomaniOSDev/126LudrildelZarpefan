@@ -1,0 +1,72 @@
+{
+  "source": "/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/126LudrildelZarpefan/Features/Results/ResultView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Next Level",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "Retry",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "Back to Explore",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "Achievements unlocked",
+        "location": {
+          "startingColumn": 63,
+          "startingLine": 24
+        }
+      },
+      {
+        "comment": "",
+        "key": "Achievement unlocked",
+        "location": {
+          "startingColumn": 89,
+          "startingLine": 24
+        }
+      },
+      {
+        "comment": "",
+        "key": "Activity Stats",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "Accuracy: %lld/%lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Attempt: %lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 60
+        }
+      }
+    ]
+  },
+  "version": 1
+}

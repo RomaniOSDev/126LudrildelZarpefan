@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target '126LudrildelZarpefan' in project '126LudrildelZarpefan' (no dependencies)

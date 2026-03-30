@@ -1,0 +1,40 @@
+{
+  "source": "/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/126LudrildelZarpefan/Features/Activities/KnowledgePathway/KnowledgePathwayView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Knowledge Pathway",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "Finish Path",
+        "location": {
+          "startingColumn": 79,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Next Step",
+        "location": {
+          "startingColumn": 95,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Step %lld of %lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 18
+        }
+      }
+    ]
+  },
+  "version": 1
+}

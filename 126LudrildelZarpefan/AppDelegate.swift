@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  126LudrildelZarpefan
 //
-//  Created by Роман Главацкий on 30.03.2026.
+//  Created by Jure on 30.03.2026.
 //
 
 import UIKit

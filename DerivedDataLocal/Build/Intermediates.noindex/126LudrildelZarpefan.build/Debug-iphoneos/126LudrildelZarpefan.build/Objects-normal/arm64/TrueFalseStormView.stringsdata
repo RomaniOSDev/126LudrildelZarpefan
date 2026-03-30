@@ -1,0 +1,56 @@
+{
+  "source": "/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/126LudrildelZarpefan/Features/Activities/TrueFalseStorm/TrueFalseStormView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "True or False",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "True",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "False",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "Time Left: %llds",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 39
+        }
+      },
+      {
+        "comment": "",
+        "key": "Question %lld/%lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Storm complete. Opening results...",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 64
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,23 @@
+{
+  "/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/126LudrildelZarpefan/Core/Components/AppUIComponents.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/DerivedDataLocal/Build/Intermediates.noindex/126LudrildelZarpefan.build/Debug-iphoneos/126LudrildelZarpefan.build/Objects-normal/arm64/AppUIComponents.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/DerivedDataLocal/Build/Intermediates.noindex/126LudrildelZarpefan.build/Debug-iphoneos/126LudrildelZarpefan.build/Objects-normal/arm64/AppUIComponents.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/DerivedDataLocal/Build/Intermediates.noindex/126LudrildelZarpefan.build/Debug-iphoneos/126LudrildelZarpefan.build/Objects-normal/arm64/AppUIComponents.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/DerivedDataLocal/Build/Intermediates.noindex/126LudrildelZarpefan.build/Debug-iphoneos/126LudrildelZarpefan.build/Objects-normal/arm64/AppUIComponents.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/DerivedDataLocal/Build/Intermediates.noindex/126LudrildelZarpefan.build/Debug-iphoneos/126LudrildelZarpefan.build/Objects-normal/arm64/AppUIComponents.swiftdeps"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/126LudrildelZarpefan/Core/Extensions/Color+App.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/DerivedDataLocal/Build/Intermediates.noindex/126LudrildelZarpefan.build/Debug-iphoneos/126LudrildelZarpefan.build/Objects-normal/arm64/Color+App.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/DerivedDataLocal/Build/Intermediates.noindex/126LudrildelZarpefan.build/Debug-iphoneos/126LudrildelZarpefan.build/Objects-normal/arm64/Color+App.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/DerivedDataLocal/Build/Intermediates.noindex/126LudrildelZarpefan.build/Debug-iphoneos/126LudrildelZarpefan.build/Objects-normal/arm64/Color+App.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/DerivedDataLocal/Build/Intermediates.noindex/126LudrildelZarpefan.build/Debug-iphoneos/126LudrildelZarpefan.build/Objects-normal/arm64/Color+App.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/DerivedDataLocal/Build/Intermediates.noindex/126LudrildelZarpefan.build/Debug-iphoneos/126LudrildelZarpefan.build/Objects-normal/arm64/Color+App.swiftdeps"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/126LudrildelZarpefan/Core/Models/TriviaModels.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/DerivedDataLocal/Build/Intermediates.noindex/126LudrildelZarpefan.build/Debug-iphoneos/126LudrildelZarpefan.build/Objects-normal/arm64/TriviaModels.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/DerivedDataLocal/Build/Intermediates.noindex/126LudrildelZarpefan.build/Debug-iphoneos/126LudrildelZarpefan.build/Objects-normal/arm64/TriviaModels.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/DerivedDataLocal/Build/Intermediates.noindex/126LudrildelZarpefan.build/Debug-iphoneos/126LudrildelZarpefan.build/Objects-normal/arm64/TriviaModels.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/DerivedDataLocal/Build/Intermediates.noindex/126LudrildelZarpefan.build/Debug-iphoneos/126LudrildelZarpefan.build/Objects-normal/arm64/TriviaModels.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/DerivedDataLocal/Build/Intermediates.noindex/126LudrildelZarpefan.build/Debug-iphoneos/126LudrildelZarpefan.build/Objects-normal/arm64/TriviaModels.swiftdeps"
+  }
+}

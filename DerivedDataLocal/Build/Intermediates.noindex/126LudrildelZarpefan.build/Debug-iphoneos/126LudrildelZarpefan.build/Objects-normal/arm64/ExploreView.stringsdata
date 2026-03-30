@@ -1,0 +1,72 @@
+{
+  "source": "/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/126LudrildelZarpefan/Features/Explore/ExploreView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Explore",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 70
+        }
+      },
+      {
+        "comment": "",
+        "key": "New Modes",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 12
+        }
+      },
+      {
+        "comment": "",
+        "key": "Easy",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose an activity and improve your stars.",
+        "location": {
+          "startingColumn": 77,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Locked until previous tier is completed.",
+        "location": {
+          "startingColumn": 124,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Best stars: %lld/3",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 103
+        }
+      },
+      {
+        "comment": "",
+        "key": "NEW",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 94
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld ★",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 157
+        }
+      }
+    ]
+  },
+  "version": 1
+}

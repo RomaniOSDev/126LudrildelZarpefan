@@ -1,0 +1,32 @@
+{
+  "source": "/Users/romanglavackij/Documents/XcodeProgramm/11 comand Sasha/Skyline/126LudrildelZarpefan/126LudrildelZarpefan/Features/Activities/OddOneOut/OddOneOutView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Odd One Out",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "Round %lld/%lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "Challenge complete. Opening results...",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 64
+        }
+      }
+    ]
+  },
+  "version": 1
+}
