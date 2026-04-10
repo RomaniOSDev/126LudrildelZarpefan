@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		374AA4B72F87C9D800F231DA /* AppsFlyerLib-Static in Frameworks */ = {isa = PBXBuildFile; productRef = 374AA4B62F87C9D800F231DA /* AppsFlyerLib-Static */; };
+		374AA4BC2F87C9E600F231DA /* AlamofireDynamic in Frameworks */ = {isa = PBXBuildFile; productRef = 374AA4BB2F87C9E600F231DA /* AlamofireDynamic */; };
+		374AA4C32F87CD0700F231DA /* ZarpefanUpdateManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 374AA4C22F87CD0700F231DA /* ZarpefanUpdateManager.swift */; };
+		374AA4C52F87CD3000F231DA /* ZarpefanModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 374AA4C42F87CD3000F231DA /* ZarpefanModels.swift */; };
+		374AA4C72F87CD4C00F231DA /* ZarpefanServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 374AA4C62F87CD4C00F231DA /* ZarpefanServices.swift */; };
+		374AA4C92F87CD6600F231DA /* ZarpefanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 374AA4C82F87CD6600F231DA /* ZarpefanView.swift */; };
+		374AA4CC2F87D0BA00F231DA /* AlamofireDynamic in Frameworks */ = {isa = PBXBuildFile; productRef = 374AA4CB2F87D0BA00F231DA /* AlamofireDynamic */; };
+		374AA4CD2F87D0CE00F231DA /* AlamofireDynamic in Embed Frameworks */ = {isa = PBXBuildFile; productRef = 374AA4CB2F87D0BA00F231DA /* AlamofireDynamic */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		744B26BE2F7AAE3D00F2A8EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 744B26B42F7AAE3D00F2A8EB /* Assets.xcassets */; };
 		744B26C02F7AAE3D00F2A8EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 744B26B82F7AAE3D00F2A8EB /* LaunchScreen.storyboard */; };
 		744B26C12F7AAE3D00F2A8EB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 744B26BA2F7AAE3D00F2A8EB /* Main.storyboard */; };
@@ -40,8 +48,27 @@
 		744B26DD2F7AAE3D00F2A8EB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744B26BC2F7AAE3D00F2A8EB /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		374AA4CE2F87D0CE00F231DA /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				374AA4CD2F87D0CE00F231DA /* AlamofireDynamic in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
 		34984E63829325C51B787032 /* Pods-126LudrildelZarpefan.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-126LudrildelZarpefan.release.xcconfig"; path = "Target Support Files/Pods-126LudrildelZarpefan/Pods-126LudrildelZarpefan.release.xcconfig"; sourceTree = "<group>"; };
+		374AA4C02F87CA8400F231DA /* 126LudrildelZarpefan.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = 126LudrildelZarpefan.entitlements; sourceTree = "<group>"; };
+		374AA4C22F87CD0700F231DA /* ZarpefanUpdateManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZarpefanUpdateManager.swift; sourceTree = "<group>"; };
+		374AA4C42F87CD3000F231DA /* ZarpefanModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZarpefanModels.swift; sourceTree = "<group>"; };
+		374AA4C62F87CD4C00F231DA /* ZarpefanServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZarpefanServices.swift; sourceTree = "<group>"; };
+		374AA4C82F87CD6600F231DA /* ZarpefanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZarpefanView.swift; sourceTree = "<group>"; };
 		744B25B02F7A956200F2A8EB /* 126LudrildelZarpefan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 126LudrildelZarpefan.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		744B26862F7AAE3D00F2A8EB /* AppUIComponents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppUIComponents.swift; sourceTree = "<group>"; };
 		744B26882F7AAE3D00F2A8EB /* Color+App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+App.swift"; sourceTree = "<group>"; };
@@ -84,12 +111,26 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				374AA4B72F87C9D800F231DA /* AppsFlyerLib-Static in Frameworks */,
+				374AA4CC2F87D0BA00F231DA /* AlamofireDynamic in Frameworks */,
+				374AA4BC2F87C9E600F231DA /* AlamofireDynamic in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		374AA4C12F87CCF500F231DA /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				374AA4C22F87CD0700F231DA /* ZarpefanUpdateManager.swift */,
+				374AA4C42F87CD3000F231DA /* ZarpefanModels.swift */,
+				374AA4C62F87CD4C00F231DA /* ZarpefanServices.swift */,
+				374AA4C82F87CD6600F231DA /* ZarpefanView.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
 		744B25A72F7A956200F2A8EB = {
 			isa = PBXGroup;
 			children = (
@@ -151,6 +192,7 @@
 		744B26902F7AAE3D00F2A8EB /* Core */ = {
 			isa = PBXGroup;
 			children = (
+				374AA4C12F87CCF500F231DA /* Services */,
 				744B26872F7AAE3D00F2A8EB /* Components */,
 				744B26892F7AAE3D00F2A8EB /* Extensions */,
 				744B268B2F7AAE3D00F2A8EB /* Models */,
@@ -301,6 +343,7 @@
 		744B26BD2F7AAE3D00F2A8EB /* 126LudrildelZarpefan */ = {
 			isa = PBXGroup;
 			children = (
+				374AA4C02F87CA8400F231DA /* 126LudrildelZarpefan.entitlements */,
 				744B26902F7AAE3D00F2A8EB /* Core */,
 				744B26B22F7AAE3D00F2A8EB /* Features */,
 				744B26B32F7AAE3D00F2A8EB /* AppDelegate.swift */,
@@ -343,6 +386,7 @@
 				744B25AC2F7A956200F2A8EB /* Sources */,
 				744B25AD2F7A956200F2A8EB /* Frameworks */,
 				744B25AE2F7A956200F2A8EB /* Resources */,
+				374AA4CE2F87D0CE00F231DA /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -377,6 +421,10 @@
 				Base,
 			);
 			mainGroup = 744B25A72F7A956200F2A8EB;
+			packageReferences = (
+				374AA4B52F87C9D800F231DA /* XCRemoteSwiftPackageReference "AppsFlyerFramework-Static" */,
+				374AA4CA2F87D0BA00F231DA /* XCRemoteSwiftPackageReference "Alamofire" */,
+			);
 			productRefGroup = 744B25B12F7A956200F2A8EB /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -429,6 +477,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				374AA4C32F87CD0700F231DA /* ZarpefanUpdateManager.swift in Sources */,
 				744B26C22F7AAE3D00F2A8EB /* AppUIComponents.swift in Sources */,
 				744B26C32F7AAE3D00F2A8EB /* Color+App.swift in Sources */,
 				744B26C42F7AAE3D00F2A8EB /* TriviaModels.swift in Sources */,
@@ -437,6 +486,7 @@
 				744B26C72F7AAE3D00F2A8EB /* AchievementsView.swift in Sources */,
 				744B26C82F7AAE3D00F2A8EB /* FactHunterView.swift in Sources */,
 				744B26C92F7AAE3D00F2A8EB /* FactHunterViewModel.swift in Sources */,
+				374AA4C72F87CD4C00F231DA /* ZarpefanServices.swift in Sources */,
 				744B26CA2F7AAE3D00F2A8EB /* KnowledgePathwayView.swift in Sources */,
 				744B26CB2F7AAE3D00F2A8EB /* KnowledgePathwayViewModel.swift in Sources */,
 				744B26CC2F7AAE3D00F2A8EB /* OddOneOutView.swift in Sources */,
@@ -454,9 +504,11 @@
 				744B26D82F7AAE3D00F2A8EB /* ResultView.swift in Sources */,
 				744B26D92F7AAE3D00F2A8EB /* SettingsView.swift in Sources */,
 				744B26DA2F7AAE3D00F2A8EB /* AppDelegate.swift in Sources */,
+				374AA4C52F87CD3000F231DA /* ZarpefanModels.swift in Sources */,
 				744B26DB2F7AAE3D00F2A8EB /* ContentView.swift in Sources */,
 				744B26DC2F7AAE3D00F2A8EB /* SceneDelegate.swift in Sources */,
 				744B26DD2F7AAE3D00F2A8EB /* ViewController.swift in Sources */,
+				374AA4C92F87CD6600F231DA /* ZarpefanView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -488,6 +540,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = 126LudrildelZarpefan/126LudrildelZarpefan.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -525,6 +578,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = 126LudrildelZarpefan/126LudrildelZarpefan.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -697,6 +751,51 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		374AA4B52F87C9D800F231DA /* XCRemoteSwiftPackageReference "AppsFlyerFramework-Static" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/AppsFlyerSDK/AppsFlyerFramework-Static";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 6.17.9;
+			};
+		};
+		374AA4B82F87C9E600F231DA /* XCRemoteSwiftPackageReference "Alamofire" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Alamofire/Alamofire.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.11.2;
+			};
+		};
+		374AA4CA2F87D0BA00F231DA /* XCRemoteSwiftPackageReference "Alamofire" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Alamofire/Alamofire.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.11.2;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		374AA4B62F87C9D800F231DA /* AppsFlyerLib-Static */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 374AA4B52F87C9D800F231DA /* XCRemoteSwiftPackageReference "AppsFlyerFramework-Static" */;
+			productName = "AppsFlyerLib-Static";
+		};
+		374AA4BB2F87C9E600F231DA /* AlamofireDynamic */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 374AA4B82F87C9E600F231DA /* XCRemoteSwiftPackageReference "Alamofire" */;
+			productName = AlamofireDynamic;
+		};
+		374AA4CB2F87D0BA00F231DA /* AlamofireDynamic */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 374AA4CA2F87D0BA00F231DA /* XCRemoteSwiftPackageReference "Alamofire" */;
+			productName = AlamofireDynamic;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 744B25A82F7A956200F2A8EB /* Project object */;
 }
